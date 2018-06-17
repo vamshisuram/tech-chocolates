@@ -1,5 +1,5 @@
 # tech-chocolates
-Some cool articles/tools which come in handy
+Some cool articles/tools which come in handy  
 (**2 spaces** at the line end forces content into new line in this file.)
 
 
